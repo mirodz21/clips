@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clips-e579a": {
+      "hosting": {
+        "clips": [
+          "clips-e579a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clips-e579a"
+  }
+}
